@@ -4,7 +4,7 @@
 
 ## 📋 Как использовать:
 
-1. **Открой в Colab**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ВАШ_АККАУНТ/tts-colab-server/blob/main/TTS_OneClick.ipynb)
+1. **Открой в Colab**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i7allia/tts-colab-server/blob/main/TTS_OneClick.ipynb)
 
 2. **Запусти все ячейки**: `Runtime` → `Run all`
 
